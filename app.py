@@ -1,5 +1,6 @@
 # Importando modulo do Google para converção texto para fala
 import gtts
+import requests
 
 # Responsavel por tocar o som gerado
 from playsound import playsound
